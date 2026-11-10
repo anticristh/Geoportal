@@ -1,0 +1,4 @@
+#map {
+    border-style: solid; /* Indica que el borde será sólido. */
+    height: 700px;       /* Establece la altura del mapa. */
+}
